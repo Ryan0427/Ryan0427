@@ -1,10 +1,8 @@
-<div style="display: flex; justify-content: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=default&hide_border=true" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=light&hide_border=true" />
+  <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=default&hide_border=true" />
+</picture>
 <!--
 **Ryan0427/Ryan0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
