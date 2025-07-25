@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427a&count_private=true)
 [![Ryan0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427&show_icons=true&count_private=true&theme=dark)](https://github.com/Ryan0427)
 [![Ryan0427's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&layout=compact&theme=dark)](https://github.com/Ryan0427)
 <!--
