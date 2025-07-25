@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats-two-pi.vercel.app?user=Ryan0427&theme=dark)](https://git.io/streak-stats)
-//[![Ryan0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427&show_icons=true&count&count_private=true_private=true&theme=dark)](https://github.com/Ryan0427)
-//[![Ryan0427's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&count_private=true&layout=compact&theme=dark)](https://github.com/Ryan0427)
+[![Ryan0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427&show_icons=true&count&count_private=true_private=true&theme=dark)](https://github.com/Ryan0427)
+[![Ryan0427's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&count_private=true&layout=compact&theme=dark)](https://github.com/Ryan0427)
 <!--
 **Ryan0427/Ryan0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
