@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427&show_icons=true&rank_icon=github&count_private=true&theme=dark)](https://github.com/Ryan0427)
+[![Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&layout=compact&theme=dark)](https://github.com/Ryan0427)
 <!--
 **Ryan0427/Ryan0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
