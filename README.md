@@ -1,6 +1,5 @@
 [![Ryan0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0427&show_icons=true&count&count_private=true_private=true&theme=dark)](https://github.com/Ryan0427)
 [![Ryan0427's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&count_private=true&layout=compact&theme=dark)](https://github.com/Ryan0427)
-[![Ryan0427's GitHub stats](https://your-vercel-app.vercel.app/api?username=Ryan0427&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/Ryan0427)
 <!--
 **Ryan0427/Ryan0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
