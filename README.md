@@ -1,6 +1,6 @@
 <div class="container" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img style="width: 50%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan0427&theme=dark&hide_border=false" alt="Ryan0427's Streak" />
-  <img style="width: auto; height: 75%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&theme=dark&show_icons=true&count_private=true&include_all_commits&hide_border=false&layout=compact" alt="Ryan0427's Top Languages" />
+  <img style="width: auto; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0427&theme=dark&show_icons=true&count_private=true&include_all_commits&hide_border=false&layout=compact" alt="Ryan0427's Top Languages" />
 </div>
 
 <!--
